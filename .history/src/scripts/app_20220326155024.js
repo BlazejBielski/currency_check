@@ -38,7 +38,7 @@ const getISOCode = () => {
     fetch('http://localhost:3000/isoCodes')
     .then((data) => data.json())
     .then((data) => {
-    data.forEach((element) => {
+        data.forEach((element) => {
             currencyCodeRef.appendChild(generateOption(element.code, element.name))
         })
     })

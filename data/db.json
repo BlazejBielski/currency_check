@@ -39,6 +39,10 @@
     {
       "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
       "id": 10
+    },
+    {
+      "msg": "Currency:dolar kanadyjski , date:2022-03-25 , rate:3.4387 ",
+      "id": 11
     }
   ],
   "isoCodes": [
