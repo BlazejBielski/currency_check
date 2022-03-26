@@ -13,4 +13,6 @@ btnRef.addEventListener('click', (evt) => {
         // responseRef.innerText = JSON.stringify(data, null, 3);
     })
 
+    console.log(currencyCodeRef.value);
+
 })

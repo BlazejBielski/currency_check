@@ -8,9 +8,10 @@ btnRef.addEventListener('click', (evt) => {
 
     const response = fetch(`https://api.nbp.pl/api/exchangerates/rates/a/${currencyCodeRef.value}/?format=json`);
     response.then((data) => data.json()).then(data => {
-        const msg = `Currency:${data.currency} , date:${data.rates[0].effectiveDate} , rate:${data.rates[0].mid} `
-        responseRef.innerText = msg;
-        // responseRef.innerText = JSON.stringify(data, null, 3);
+        const msg = `Currency:${data.curren} , date: , rate: `
+        responseRef.innerText = JSON.stringify(data, null, 3);
     })
+
+    console.log(currencyCodeRef.value);
 
 })
