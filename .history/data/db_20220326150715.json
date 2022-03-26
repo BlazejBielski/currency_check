@@ -1,0 +1,867 @@
+{
+  "history": [
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 1
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 2
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 3
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 4
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 5
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 6
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 7
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 8
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 9
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 10
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 11
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 12
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 13
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 14
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 15
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 16
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 17
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 18
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 19
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 20
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 21
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 22
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 23
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 24
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 25
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 26
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 27
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 28
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 29
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 30
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 31
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 32
+    },
+    {
+      "msg": "Currency:dolar amerykański , date:2022-03-25 , rate:4.3125 ",
+      "id": 33
+    },
+    {
+      "msg": "Currency:rubel rosyjski , date:2022-03-08 , rate:0.033 ",
+      "id": 34
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 35
+    },
+    {
+      "msg": "Currency:euro , date:2022-03-25 , rate:4.7459 ",
+      "id": 36
+    }
+  ],
+  "isoCodes": 
+  [
+    {
+        "id": 0,
+        "code": "AED"
+    },
+    {
+        "id": 1,
+        "code": "AFN"
+    },
+    {
+        "id": 2,
+        "code": "ALL"
+    },
+    {
+        "id": 3,
+        "code": "AMD"
+    },
+    {
+        "id": 4,
+        "code": "ANG"
+    },
+    {
+        "id": 5,
+        "code": "AOA"
+    },
+    {
+        "id": 6,
+        "code": "ARS"
+    },
+    {
+        "id": 7,
+        "code": "AUD"
+    },
+    {
+        "id": 8,
+        "code": "AWG"
+    },
+    {
+        "id": 9,
+        "code": "AZN"
+    },
+    {
+        "id": 10,
+        "code": "BAM"
+    },
+    {
+        "id": 11,
+        "code": "BBD"
+    },
+    {
+        "id": 12,
+        "code": "BDT"
+    },
+    {
+        "id": 13,
+        "code": "BGN"
+    },
+    {
+        "id": 14,
+        "code": "BHD"
+    },
+    {
+        "id": 15,
+        "code": "BIF"
+    },
+    {
+        "id": 16,
+        "code": "BMD"
+    },
+    {
+        "id": 17,
+        "code": "BND"
+    },
+    {
+        "id": 18,
+        "code": "BOB"
+    },
+    {
+        "id": 19,
+        "code": "BOV"
+    },
+    {
+        "id": 20,
+        "code": "BRL"
+    },
+    {
+        "id": 21,
+        "code": "BSD"
+    },
+    {
+        "id": 22,
+        "code": "BTN"
+    },
+    {
+        "id": 23,
+        "code": "BWP"
+    },
+    {
+        "id": 24,
+        "code": "BYN"
+    },
+    {
+        "id": 25,
+        "code": "BZD"
+    },
+    {
+        "id": 26,
+        "code": "CAD"
+    },
+    {
+        "id": 27,
+        "code": "CDF"
+    },
+    {
+        "id": 28,
+        "code": "CHE"
+    },
+    {
+        "id": 29,
+        "code": "CHF"
+    },
+    {
+        "id": 30,
+        "code": "CHW"
+    },
+    {
+        "id": 31,
+        "code": "CLF"
+    },
+    {
+        "id": 32,
+        "code": "CLP"
+    },
+    {
+        "id": 33,
+        "code": "CNY"
+    },
+    {
+        "id": 34,
+        "code": "COP"
+    },
+    {
+        "id": 35,
+        "code": "COU"
+    },
+    {
+        "id": 36,
+        "code": "CRC"
+    },
+    {
+        "id": 37,
+        "code": "CUC"
+    },
+    {
+        "id": 38,
+        "code": "CUP"
+    },
+    {
+        "id": 39,
+        "code": "CVE"
+    },
+    {
+        "id": 40,
+        "code": "CZK"
+    },
+    {
+        "id": 41,
+        "code": "DJF"
+    },
+    {
+        "id": 42,
+        "code": "DKK"
+    },
+    {
+        "id": 43,
+        "code": "DOP"
+    },
+    {
+        "id": 44,
+        "code": "DZD"
+    },
+    {
+        "id": 45,
+        "code": "EGP"
+    },
+    {
+        "id": 46,
+        "code": "ERN"
+    },
+    {
+        "id": 47,
+        "code": "ETB"
+    },
+    {
+        "id": 48,
+        "code": "EUR"
+    },
+    {
+        "id": 49,
+        "code": "FJD"
+    },
+    {
+        "id": 50,
+        "code": "FKP"
+    },
+    {
+        "id": 51,
+        "code": "GBP"
+    },
+    {
+        "id": 52,
+        "code": "GEL"
+    },
+    {
+        "id": 53,
+        "code": "GHS"
+    },
+    {
+        "id": 54,
+        "code": "GIP"
+    },
+    {
+        "id": 55,
+        "code": "GMD"
+    },
+    {
+        "id": 56,
+        "code": "GNF"
+    },
+    {
+        "id": 57,
+        "code": "GTQ"
+    },
+    {
+        "id": 58,
+        "code": "GYD"
+    },
+    {
+        "id": 59,
+        "code": "HKD"
+    },
+    {
+        "id": 60,
+        "code": "HNL"
+    },
+    {
+        "id": 61,
+        "code": "HRK"
+    },
+    {
+        "id": 62,
+        "code": "HTG"
+    },
+    {
+        "id": 63,
+        "code": "HUF"
+    },
+    {
+        "id": 64,
+        "code": "IDR"
+    },
+    {
+        "id": 65,
+        "code": "ILS"
+    },
+    {
+        "id": 66,
+        "code": "INR"
+    },
+    {
+        "id": 67,
+        "code": "IQD"
+    },
+    {
+        "id": 68,
+        "code": "IRR"
+    },
+    {
+        "id": 69,
+        "code": "ISK"
+    },
+    {
+        "id": 70,
+        "code": "JMD"
+    },
+    {
+        "id": 71,
+        "code": "JOD"
+    },
+    {
+        "id": 72,
+        "code": "JPY"
+    },
+    {
+        "id": 73,
+        "code": "KES"
+    },
+    {
+        "id": 74,
+        "code": "KGS"
+    },
+    {
+        "id": 75,
+        "code": "KHR"
+    },
+    {
+        "id": 76,
+        "code": "KMF"
+    },
+    {
+        "id": 77,
+        "code": "KPW"
+    },
+    {
+        "id": 78,
+        "code": "KRW"
+    },
+    {
+        "id": 79,
+        "code": "KWD"
+    },
+    {
+        "id": 80,
+        "code": "KYD"
+    },
+    {
+        "id": 81,
+        "code": "KZT"
+    },
+    {
+        "id": 82,
+        "code": "LAK"
+    },
+    {
+        "id": 83,
+        "code": "LBP"
+    },
+    {
+        "id": 84,
+        "code": "LKR"
+    },
+    {
+        "id": 85,
+        "code": "LRD"
+    },
+    {
+        "id": 86,
+        "code": "LSL"
+    },
+    {
+        "id": 87,
+        "code": "LYD"
+    },
+    {
+        "id": 88,
+        "code": "MAD"
+    },
+    {
+        "id": 89,
+        "code": "MDL"
+    },
+    {
+        "id": 90,
+        "code": "MGA"
+    },
+    {
+        "id": 91,
+        "code": "MKD"
+    },
+    {
+        "id": 92,
+        "code": "MMK"
+    },
+    {
+        "id": 93,
+        "code": "MNT"
+    },
+    {
+        "id": 94,
+        "code": "MOP"
+    },
+    {
+        "id": 95,
+        "code": "MRU"
+    },
+    {
+        "id": 96,
+        "code": "MUR"
+    },
+    {
+        "id": 97,
+        "code": "MVR"
+    },
+    {
+        "id": 98,
+        "code": "MWK"
+    },
+    {
+        "id": 99,
+        "code": "MXN"
+    },
+    {
+        "id": 100,
+        "code": "MXV"
+    },
+    {
+        "id": 101,
+        "code": "MYR"
+    },
+    {
+        "id": 102,
+        "code": "MZN"
+    },
+    {
+        "id": 103,
+        "code": "NAD"
+    },
+    {
+        "id": 104,
+        "code": "NGN"
+    },
+    {
+        "id": 105,
+        "code": "NIO"
+    },
+    {
+        "id": 106,
+        "code": "NOK"
+    },
+    {
+        "id": 107,
+        "code": "NPR"
+    },
+    {
+        "id": 108,
+        "code": "NZD"
+    },
+    {
+        "id": 109,
+        "code": "OMR"
+    },
+    {
+        "id": 110,
+        "code": "PAB"
+    },
+    {
+        "id": 111,
+        "code": "PEN"
+    },
+    {
+        "id": 112,
+        "code": "PGK"
+    },
+    {
+        "id": 113,
+        "code": "PHP"
+    },
+    {
+        "id": 114,
+        "code": "PKR"
+    },
+    {
+        "id": 115,
+        "code": "PLN"
+    },
+    {
+        "id": 116,
+        "code": "PYG"
+    },
+    {
+        "id": 117,
+        "code": "QAR"
+    },
+    {
+        "id": 118,
+        "code": "RON"
+    },
+    {
+        "id": 119,
+        "code": "RSD"
+    },
+    {
+        "id": 120,
+        "code": "RUB"
+    },
+    {
+        "id": 121,
+        "code": "RWF"
+    },
+    {
+        "id": 122,
+        "code": "SAR"
+    },
+    {
+        "id": 123,
+        "code": "SBD"
+    },
+    {
+        "id": 124,
+        "code": "SCR"
+    },
+    {
+        "id": 125,
+        "code": "SDG"
+    },
+    {
+        "id": 126,
+        "code": "SEK"
+    },
+    {
+        "id": 127,
+        "code": "SGD"
+    },
+    {
+        "id": 128,
+        "code": "SHP"
+    },
+    {
+        "id": 129,
+        "code": "SLL"
+    },
+    {
+        "id": 130,
+        "code": "SOS"
+    },
+    {
+        "id": 131,
+        "code": "SRD"
+    },
+    {
+        "id": 132,
+        "code": "SSP"
+    },
+    {
+        "id": 133,
+        "code": "STN"
+    },
+    {
+        "id": 134,
+        "code": "SVC"
+    },
+    {
+        "id": 135,
+        "code": "SYP"
+    },
+    {
+        "id": 136,
+        "code": "SZL"
+    },
+    {
+        "id": 137,
+        "code": "THB"
+    },
+    {
+        "id": 138,
+        "code": "TJS"
+    },
+    {
+        "id": 139,
+        "code": "TMT"
+    },
+    {
+        "id": 140,
+        "code": "TND"
+    },
+    {
+        "id": 141,
+        "code": "TOP"
+    },
+    {
+        "id": 142,
+        "code": "TRY"
+    },
+    {
+        "id": 143,
+        "code": "TTD"
+    },
+    {
+        "id": 144,
+        "code": "TWD"
+    },
+    {
+        "id": 145,
+        "code": "TZS"
+    },
+    {
+        "id": 146,
+        "code": "UAH"
+    },
+    {
+        "id": 147,
+        "code": "UGX"
+    },
+    {
+        "id": 148,
+        "code": "USD"
+    },
+    {
+        "id": 149,
+        "code": "USN"
+    },
+    {
+        "id": 150,
+        "code": "UYI"
+    },
+    {
+        "id": 151,
+        "code": "UYU"
+    },
+    {
+        "id": 152,
+        "code": "UYW"
+    },
+    {
+        "id": 153,
+        "code": "UZS"
+    },
+    {
+        "id": 154,
+        "code": "VES"
+    },
+    {
+        "id": 155,
+        "code": "VND"
+    },
+    {
+        "id": 156,
+        "code": "VUV"
+    },
+    {
+        "id": 157,
+        "code": "WST"
+    },
+    {
+        "id": 158,
+        "code": "XAF"
+    },
+    {
+        "id": 159,
+        "code": "XAG"
+    },
+    {
+        "id": 160,
+        "code": "XAU"
+    },
+    {
+        "id": 161,
+        "code": "XBA"
+    },
+    {
+        "id": 162,
+        "code": "XBB"
+    },
+    {
+        "id": 163,
+        "code": "XBC"
+    },
+    {
+        "id": 164,
+        "code": "XBD"
+    },
+    {
+        "id": 165,
+        "code": "XCD"
+    },
+    {
+        "id": 166,
+        "code": "XDR"
+    },
+    {
+        "id": 167,
+        "code": "XOF"
+    },
+    {
+        "id": 168,
+        "code": "XPD"
+    },
+    {
+        "id": 169,
+        "code": "XPF"
+    },
+    {
+        "id": 170,
+        "code": "XPT"
+    },
+    {
+        "id": 171,
+        "code": "XSU"
+    },
+    {
+        "id": 172,
+        "code": "XTS"
+    },
+    {
+        "id": 173,
+        "code": "XUA"
+    },
+    {
+        "id": 174,
+        "code": "XXX"
+    },
+    {
+        "id": 175,
+        "code": "YER"
+    },
+    {
+        "id": 176,
+        "code": "ZAR"
+    },
+    {
+        "id": 177,
+        "code": "ZMW"
+    },
+    {
+        "id": 178,
+        "code": "ZWL"
+    }
+]
+}

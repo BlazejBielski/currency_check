@@ -6,7 +6,7 @@
     <meta name="viewport content="width=device-width, 
     user-scalable=no, initial-scale=1.0, maximum-scale="1.0">
     <!-- <link rel="stylesheet" href="style.css"> -->
-    <script src="src/scripts/app.js" async defer></script>
+    <!-- <script src="src/scripts/app.js" async defer></script> -->
     <!-- <script src="./src/scripts/promiseExamples.js" async defer></script> -->
     <title>Currency Check App</title>
 </head>
@@ -17,7 +17,9 @@
     <form>
         <label for="currencyCode">Choose Currency</label>
         <select id="currencyCode">
-
+            <option value="usd">Dollar</option>
+            <option value="eur">Euro</option>
+            <option value="rub">Ruble</option>
 
         </select>
         <button type="submit">Check</button>
@@ -26,13 +28,6 @@
 
     <section>
         <pre id="response"></pre>
-    </section>
-
-    <section>
-        <h2>History:</h2>
-        <ul id="history">
-            <li>No records yet.</li>
-        </ul>
     </section>
 </body>
 </html>

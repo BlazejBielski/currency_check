@@ -34,19 +34,6 @@ const generateOption = (code, currencyName) => {
     return node;
 }
 
-const getISOCode = () => {
-    fetch('http://localhost:3000/isoCodes')
-    .then((data) => data.json())
-    .then((data) => {
-        forEach((element) => {
-            currencyCodeRef.appendChild(generateOption(element.code, element.name))
-        })
-    })
-
-}
-
-getISOCode();
-
 const getHistoryData = () => {
     fetch('http://localhost:3000/history')
     .then((data) => data.json())
@@ -57,11 +44,10 @@ const getHistoryData = () => {
             }
             new Set(data.map(e => e.msg))
             .forEach((element) => {
-            const li = generateLi(element)
-            historyRef.appendChild(li);
 
             })
-
+            const li = generateLi(element)
+            historyRef.appendChild(li);
 
         })
         

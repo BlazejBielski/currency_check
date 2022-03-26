@@ -23,29 +23,16 @@ const generateLi = (msg) => {
     node.appendChild(nodeText);
 
     return node;
+
 }
 
-const generateOption = (code, currencyName) => {
+const generateOption = () => {
     const node = document.createElement('option');
-    node.value = code;
-    const nodeText = document.createTextNode(currencyName);
+    const nodeText = document.createTextNode(msg);
     node.appendChild(nodeText);
 
     return node;
 }
-
-const getISOCode = () => {
-    fetch('http://localhost:3000/isoCodes')
-    .then((data) => data.json())
-    .then((data) => {
-        forEach((element) => {
-            currencyCodeRef.appendChild(generateOption(element.code, element.name))
-        })
-    })
-
-}
-
-getISOCode();
 
 const getHistoryData = () => {
     fetch('http://localhost:3000/history')
@@ -57,11 +44,10 @@ const getHistoryData = () => {
             }
             new Set(data.map(e => e.msg))
             .forEach((element) => {
-            const li = generateLi(element)
-            historyRef.appendChild(li);
 
             })
-
+            const li = generateLi(element)
+            historyRef.appendChild(li);
 
         })
         

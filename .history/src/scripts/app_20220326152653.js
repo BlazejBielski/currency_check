@@ -39,7 +39,7 @@ const getISOCode = () => {
     .then((data) => data.json())
     .then((data) => {
         forEach((element) => {
-            currencyCodeRef.appendChild(generateOption(element.code, element.name))
+            cu
         })
     })
 
@@ -57,11 +57,10 @@ const getHistoryData = () => {
             }
             new Set(data.map(e => e.msg))
             .forEach((element) => {
-            const li = generateLi(element)
-            historyRef.appendChild(li);
 
             })
-
+            const li = generateLi(element)
+            historyRef.appendChild(li);
 
         })
         

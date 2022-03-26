@@ -1,0 +1,26 @@
+const generateLi = (msg) => {
+    const node = document.createElement('li');
+    const nodeText = document.createTextNode(msg);
+    node.appendChild(nodeText);
+
+    return node;
+
+}
+
+
+const getHistoryData = () => {
+    fetch('http://localhost:3000/history')
+    .then((data) => data.json())
+    .then((data) => {
+        data.forEach((element) => {
+            if (data.length > 0){
+                historyRef.children[0].remove()
+            }
+            const li = generateLi(element.msg)
+            historyRef.appendChild(li);
+
+        })
+        
+    })
+
+}

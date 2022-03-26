@@ -39,7 +39,7 @@ const getISOCode = () => {
     .then((data) => data.json())
     .then((data) => {
         forEach((element) => {
-            currencyCodeRef.appendChild(generateOption(element.code, element.name))
+            currencyCodeRef.appendChild(generateOption(element.code, element.name)
         })
     })
 

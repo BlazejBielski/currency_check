@@ -17,57 +17,27 @@ const postData = (msg) => {
 
 }
 
-const generateLi = (msg) => {
-    const node = document.createElement('li');
+const generateLi = () => {
+    const node = document.createElement('Li');
     const nodeText = document.createTextNode(msg);
     node.appendChild(nodeText);
 
     return node;
-}
-
-const generateOption = (code, currencyName) => {
-    const node = document.createElement('option');
-    node.value = code;
-    const nodeText = document.createTextNode(currencyName);
-    node.appendChild(nodeText);
-
-    return node;
-}
-
-const getISOCode = () => {
-    fetch('http://localhost:3000/isoCodes')
-    .then((data) => data.json())
-    .then((data) => {
-        forEach((element) => {
-            currencyCodeRef.appendChild(generateOption(element.code, element.name))
-        })
-    })
 
 }
 
-getISOCode();
 
 const getHistoryData = () => {
-    fetch('http://localhost:3000/history')
-    .then((data) => data.json())
-    .then((data) => {
-        data.forEach((element) => {
-            if (data.length > 0){
-                historyRef.children[0].remove()
-            }
-            new Set(data.map(e => e.msg))
-            .forEach((element) => {
-            const li = generateLi(element)
-            historyRef.appendChild(li);
-
-            })
-
-
-        })
+    fetch("http://localhost:3000/history")
+    history.then((data) => data.json())
+    .then(data) => {
+        const msg = `${data}`
+        
         
     })
 
 }
+
 
 btnRef.addEventListener('click', (evt) => {
     evt.preventDefault();
