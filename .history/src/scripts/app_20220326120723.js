@@ -14,3 +14,6 @@ btnRef.addEventListener('click', (evt) => {
     })
 })
 
+// ajax - asynchronous js and xml - XMLHTTPRequest
+
+const myFetch = () => {}

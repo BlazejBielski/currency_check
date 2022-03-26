@@ -35,10 +35,10 @@ const myFetch = (url) => {
 
 const response = myFetch(`https://api.nbp.pl/api/exchangerates/rates/a/usd/?format=json`)
     .then((resp) => {
-        console.log(resp)
+        console.log
 
     })
     .catch((error) => {
-        console.log(error)
 
     })
+console.log(response)

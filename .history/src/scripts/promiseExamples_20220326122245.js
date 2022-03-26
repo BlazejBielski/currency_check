@@ -42,3 +42,4 @@ const response = myFetch(`https://api.nbp.pl/api/exchangerates/rates/a/usd/?form
         console.log(error)
 
     })
+console.log(response)
