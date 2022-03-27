@@ -47,6 +47,14 @@
     {
       "msg": "Currency: dolar australijski, date: 2022-03-25, rate: 3.2374 PLN",
       "id": 12
+    },
+    {
+      "msg": "Currency: dolar kanadyjski, date: 2022-03-25, rate: 3.4387 PLN",
+      "id": 13
+    },
+    {
+      "msg": "Currency: korona czeska, date: 2022-03-25, rate: 0.1924 PLN",
+      "id": 14
     }
   ],
   "isoCodes": [
